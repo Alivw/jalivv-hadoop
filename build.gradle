@@ -15,6 +15,8 @@ dependencies {
     implementation 'org.apache.hadoop:hadoop-common:2.6.5'
     implementation 'org.apache.hadoop:hadoop-hdfs:2.6.5'
     implementation 'junit:junit:4.11'
+    implementation 'org.apache.hadoop:hadoop-client:2.6.5'
+
 
 }
 
